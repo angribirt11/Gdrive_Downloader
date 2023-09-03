@@ -3,6 +3,7 @@ Google Drive Downloader
 
 ![alt text](https://github.com/duytran1406/gdrivedownloader/blob/master/myDl.png?raw=true)
 
+I update the script so that it can be run on Python 3
 
 ## Getting Started
 
